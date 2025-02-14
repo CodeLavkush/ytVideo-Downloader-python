@@ -2,5 +2,5 @@
 for using this project into your machine you need to install the **Git** from https://git-scm.com/.*
 
 **Step 1:**
-Run this command to clone the repo/project.
+Run this command to clone the repo/project.<br>
 `git clone https://github.com/CodeLavkush/ytVideo-Downloader-python.git`
