@@ -3,7 +3,7 @@ for using this project into your machine you need to install the **Git** from ht
 
 **Step 1:**
 *Run this command to clone the repo/project.<br>*
-```git clone https://github.com/CodeLavkush/ytVideo-Downloader-python.git```
+<code>git clone https://github.com/CodeLavkush/ytVideo-Downloader-python.git</code>
 
 **Step 2:**
 *Then after that open the vscode in the cloned repo. and open the terminal and write the below command.*<br>
