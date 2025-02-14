@@ -3,4 +3,4 @@ for using this project into your machine you need to install the **Git** from ht
 
 **Step 1:**
 Run this command to clone the repo/project.
-```git clone```
+`git clone https://github.com/CodeLavkush/ytVideo-Downloader-python.git`
